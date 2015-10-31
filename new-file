@@ -1,0 +1,1 @@
+You can also pass this lab by creating a new file. From your console, you can run touch new-file to create a new file. If a new file is added to this lab, when you run learn, your tests should pass.
