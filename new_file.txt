@@ -1,0 +1,6 @@
+edit-me.txt
+Gemfile
+Gemfile.lock
+new_file.txt
+README.md
+spec
