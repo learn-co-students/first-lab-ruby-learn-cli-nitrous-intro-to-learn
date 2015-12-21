@@ -4,11 +4,7 @@
 
 1. Open a lab by clicking "Open" on this page on Learn.co.
 2. Run the lab's tests with the `learn` CLI command.
-3. Make a change to your local copy of this lab.
-4. Pass the tests using the `learn` CLI command.
-5. Submit the passing lab with the `learn submit` CLI command.
-
-## Instructions
+3. Make a change to your locacd
 
 This lab is just about practicing the lab workflow on Learn using the `learn` CLI.
 
@@ -16,7 +12,7 @@ This lab is just about practicing the lab workflow on Learn using the `learn` CL
 
 ![Open](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_open_highlight.png)
 
-After you click on this, a new tab should open with your Nitrous container. At the same time, behind the scenes we are forking the lab and cloning it to your container. 
+After you click on this, a new tab should open with your Nitrous container. At the same time, behind the scenes we are forking the lab and cloning it to your container.
 
 ![new-tab](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_open_in_new_tab.png)
 
@@ -46,4 +42,4 @@ You can also pass this lab by creating a new file. From your console, you can ru
 
 ![learn-submit](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_learn_submit.png)
 
-You should see this lab pass on Learn.co. Congratulations! You've just solved your first lab. 
+You should see this lab pass on Learn.co. Congratulations! You've just solved your first lab.
