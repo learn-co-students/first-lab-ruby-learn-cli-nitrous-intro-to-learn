@@ -1,7 +1,7 @@
 # Solving your first Lab
 
 ## Objectives
-
+## Richard George
 1. Open a lab by clicking "Open" on this page on Learn.co.
 2. Run the lab's tests with the `learn` CLI command.
 3. Make a change to your local copy of this lab.
